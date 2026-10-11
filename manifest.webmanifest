@@ -1,0 +1,15 @@
+{
+  "name": "상중하초 처방 찾기",
+  "short_name": "삼초처방",
+  "description": "상초·중초·하초·표증·한열 증상으로 처방을 찾고 方極 주치·조문·藥徵·의안을 함께 보는 도구",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F4F1",
+  "theme_color": "#2F6B57",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
